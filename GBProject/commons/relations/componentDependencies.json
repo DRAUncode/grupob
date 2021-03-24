@@ -1,6 +1,14 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_ESTUDIATT_950": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+	},
+	"Queries": {
+	}
 }
