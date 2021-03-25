@@ -1,10 +1,12 @@
 {
-    "CLFCC": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"CLFCC": {
+		"LBL": {
+			"LBL_CLFCC_APELLIDOO_62525": "Apellido",
+			"LBL_CLFCC_EDADXMGGK_17317": "Edad",
+			"LBL_CLFCC_FNACIMIOE_13867": "F nacimiento",
+			"LBL_CLFCC_NOMBREDAM_78733": "Nombre"
+		},
+		"MSG": {
+		}
+	}
 }

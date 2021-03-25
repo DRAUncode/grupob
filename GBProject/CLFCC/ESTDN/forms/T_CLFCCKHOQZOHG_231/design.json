@@ -56,19 +56,207 @@
 					{
 						"collapsedStr": "F",
 						"colSpan": 1,
+						"columnsNum": 3,
 						"componentStyle": null,
 						"customEvents": [
 						],
 						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../CLFCC/entities/EN_JORGEMORE_382.json#"
+						},
 						"eventType": 0,
-						"groupId": "G_EMPTYQBHQE_889530",
+						"groupId": "G_JMSFIXWPUR_692530",
+						"htmlSection": "F",
+						"independentValidation": "F",
 						"isCustomized": false,
-						"layoutType": "Empty",
-						"name": "G_EMPTYQBHQE_889530",
+						"layoutType": "Group",
+						"name": "Group1935",
 						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
 						"style": null,
 						"visible": 4095,
 						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../CLFCC/entities/EN_JORGEMORE_382.json#/attributes/AT22_APELLIDO382"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../CLFCC/assets/languages/CLFCC.json#/CLFCC/LBL/LBL_CLFCC_APELLIDOO_62525"
+									},
+									"labelId": "LBL_CLFCC_APELLIDOO_62525",
+									"moduleId": "CLFCC"
+								},
+								"maxRecords": null,
+								"name": "apellido",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_APELLIDOEDIGRTG_176530",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../CLFCC/entities/EN_JORGEMORE_382.json#/attributes/AT84_EDADRPXH382"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../CLFCC/assets/languages/CLFCC.json#/CLFCC/LBL/LBL_CLFCC_EDADXMGGK_17317"
+									},
+									"labelId": "LBL_CLFCC_EDADXMGGK_17317",
+									"moduleId": "CLFCC"
+								},
+								"maxRecords": null,
+								"name": "edad",
+								"options": 0,
+								"order": 3,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_EDADTOJPJVFJHJA_611530",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../CLFCC/entities/EN_JORGEMORE_382.json#/attributes/AT92_FECHNAIE382"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../CLFCC/assets/languages/CLFCC.json#/CLFCC/LBL/LBL_CLFCC_FNACIMIOE_13867"
+									},
+									"labelId": "LBL_CLFCC_FNACIMIOE_13867",
+									"moduleId": "CLFCC"
+								},
+								"maxRecords": null,
+								"name": "fechNacimiento",
+								"options": 0,
+								"order": 4,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "DateField"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_FECHNACIMIENOTO_490530",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../CLFCC/entities/EN_JORGEMORE_382.json#/attributes/AT54_NOMBREYL382"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../CLFCC/assets/languages/CLFCC.json#/CLFCC/LBL/LBL_CLFCC_NOMBREDAM_78733"
+									},
+									"labelId": "LBL_CLFCC_NOMBREDAM_78733",
+									"moduleId": "CLFCC"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBRENBRDHAWVR_639530",
+								"width": null,
+								"widthComposite": "D"
+							}
 						]
 					}
 				],

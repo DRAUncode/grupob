@@ -5,10 +5,6 @@
 		"EN_JORGEMORE_382": {
 			"labels": [
 			]
-		},
-		"EN_PERSONATY_691": {
-			"labels": [
-			]
 		}
 	},
 	"Forms": {
@@ -16,6 +12,12 @@
 			"blis": [
 			],
 			"entities": {
+				"EN_JORGEMORE_382": [
+					"AT22_APELLIDO382",
+					"AT54_NOMBREYL382",
+					"AT84_EDADRPXH382",
+					"AT92_FECHNAIE382"
+				]
 			},
 			"externalEntities": {
 			},
@@ -24,6 +26,10 @@
 			"header": [
 			],
 			"labels": [
+				"LBL_CLFCC_APELLIDOO_62525",
+				"LBL_CLFCC_EDADXMGGK_17317",
+				"LBL_CLFCC_FNACIMIOE_13867",
+				"LBL_CLFCC_NOMBREDAM_78733"
 			],
 			"queries": {
 			},
