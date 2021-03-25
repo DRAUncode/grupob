@@ -2,12 +2,64 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_ANIMALJTZ_835": {
+			"labels": [
+			]
+		},
 		"EN_PERSONAII_118": {
 			"labels": [
 			]
 		}
 	},
 	"Forms": {
+		"T_CLFCCPETQDIOK_549": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAII_118": [
+					"AT52_NOMBRETB118",
+					"AT84_APELLIDO118"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_CLFCC_APELLIDOO_97591",
+				"LBL_CLFCC_NOMBRENAW_95120"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_CLFCCTVKKXENQ_607": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ANIMALJTZ_835": [
+					"AT45_DUENIOBS835",
+					"AT55_NOMBREKL835"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_CLFCC_DUENIOFYU_10956",
+				"LBL_CLFCC_NOMBRENAW_95120"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

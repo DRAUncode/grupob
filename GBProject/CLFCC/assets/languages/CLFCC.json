@@ -1,10 +1,11 @@
 {
-    "CLFCC": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"CLFCC": {
+		"LBL": {
+			"LBL_CLFCC_APELLIDOO_97591": "Apellido",
+			"LBL_CLFCC_DUENIOFYU_10956": "Duenio",
+			"LBL_CLFCC_NOMBRENAW_95120": "Nombre"
+		},
+		"MSG": {
+		}
+	}
 }

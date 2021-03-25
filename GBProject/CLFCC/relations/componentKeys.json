@@ -1,7 +1,26 @@
 {
 	"Entities": {
+		"EN_ANIMALJTZ_835": {
+			"name": "Animal"
+		},
 		"EN_PERSONAII_118": {
 			"name": "Persona"
+		}
+	},
+	"ESTDN": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_CLFCCPETQDIOK_549": {
+				"name": "PersonaAlexander"
+			},
+			"T_CLFCCTVKKXENQ_607": {
+				"name": "AnimalDuenio"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
 		}
 	}
 }

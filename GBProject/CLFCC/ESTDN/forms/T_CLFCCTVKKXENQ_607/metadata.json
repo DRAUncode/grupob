@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_ANIMALJTZ_835",
+			"isContextEntity": null,
+			"moduleId": "CLFCC",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
