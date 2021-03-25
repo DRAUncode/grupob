@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_JORGEMORE_382": {
+			"name": "JorgeMosquera"
+                },
 		"EN_CAJEROABB_440": {
 			"name": "CajeroABC"
 		},
@@ -14,6 +17,9 @@
 		"CompositeForms": {
 		},
 		"Forms": {
+			"T_CLFCCKHOQZOHG_231": {
+				"name": "FormularioJMS"
+                        },
 			"T_CLFCCEWXSQCMK_684": {
 				"name": "CajeroABCFrm"
 			},

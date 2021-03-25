@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_JORGEMORE_382",
+			"isContextEntity": null,
+			"moduleId": "CLFCC",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}

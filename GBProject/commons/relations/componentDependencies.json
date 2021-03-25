@@ -2,6 +2,10 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+                "EN_JORGEMORE_382": {
+			"labels": [
+			]
+		},
 		"EN_CAJEROABB_440": {
 			"labels": [
 			]
@@ -84,6 +88,34 @@
 			"labels": [
 				"LBL_CLFCC_DUENIOFYU_10956",
 				"LBL_CLFCC_NOMBRENAW_95120"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+                "T_CLFCCKHOQZOHG_231": {
+			"blis": [
+			],
+			"entities": {
+				"EN_JORGEMORE_382": [
+					"AT22_APELLIDO382",
+					"AT54_NOMBREYL382",
+					"AT84_EDADRPXH382",
+					"AT92_FECHNAIE382"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_CLFCC_APELLIDOO_62525",
+				"LBL_CLFCC_EDADXMGGK_17317",
+				"LBL_CLFCC_FNACIMIOE_13867",
+				"LBL_CLFCC_NOMBREDAM_78733"
 			],
 			"queries": {
 			},
