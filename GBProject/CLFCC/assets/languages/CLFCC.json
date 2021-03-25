@@ -1,10 +1,21 @@
 {
-    "CLFCC": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"CLFCC": {
+		"LBL": {
+			"LBL_CLFCC_APELLIDOO_62525": "Apellido",
+			"LBL_CLFCC_APELLIDOO_66487": "apellido",
+			"LBL_CLFCC_APELLIDOO_97591": "Apellido",
+			"LBL_CLFCC_CURSOSDXB_61075": "curso",
+			"LBL_CLFCC_DUENIOFYU_10956": "Duenio",
+			"LBL_CLFCC_EDADXMGGK_17317": "Edad",
+			"LBL_CLFCC_FNACIMIOE_13867": "F nacimiento",
+			"LBL_CLFCC_GUARDAROG_80721": "guardar",
+			"LBL_CLFCC_NOMBREDAM_78733": "Nombre",
+			"LBL_CLFCC_NOMBRENAW_95120": "Nombre",
+			"LBL_CLFCC_NOMBREWQJ_65500": "nombre",
+			"LBL_CLFCC_SEXOLKGQK_69757": "sexo",
+			"LBL_CLFCC_SUCURSALL_98993": "sucursal"
+		},
+		"MSG": {
+		}
+	}
 }

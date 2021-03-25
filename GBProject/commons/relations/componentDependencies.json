@@ -2,12 +2,159 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_ANIMALJTZ_835": {
+			"labels": [
+			]
+		},
+		"EN_CAJEROABB_440": {
+			"labels": [
+			]
+		},
 		"EN_ESTUDIATT_950": {
+			"labels": [
+			]
+		},
+		"EN_JORGEMORE_382": {
+			"labels": [
+			]
+		},
+		"EN_PERSONAII_118": {
 			"labels": [
 			]
 		}
 	},
 	"Forms": {
+		"T_CLFCCEWXSQCMK_684": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CAJEROABB_440": [
+					"AT63_APELLIDO440",
+					"AT82_SUCURSAA440",
+					"AT92_NOMBREPV440"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_CLFCC_APELLIDOO_66487",
+				"LBL_CLFCC_NOMBREWQJ_65500",
+				"LBL_CLFCC_SUCURSALL_98993"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_CLFCCKHOQZOHG_231": {
+			"blis": [
+			],
+			"entities": {
+				"EN_JORGEMORE_382": [
+					"AT22_APELLIDO382",
+					"AT54_NOMBREYL382",
+					"AT84_EDADRPXH382",
+					"AT92_FECHNAIE382"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_CLFCC_APELLIDOO_62525",
+				"LBL_CLFCC_EDADXMGGK_17317",
+				"LBL_CLFCC_FNACIMIOE_13867",
+				"LBL_CLFCC_NOMBREDAM_78733"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_CLFCCPETQDIOK_549": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAII_118": [
+					"AT52_NOMBRETB118",
+					"AT84_APELLIDO118"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_CLFCC_APELLIDOO_97591",
+				"LBL_CLFCC_NOMBRENAW_95120"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_CLFCCTVKKXENQ_607": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ANIMALJTZ_835": [
+					"AT45_DUENIOBS835",
+					"AT55_NOMBREKL835"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_CLFCC_DUENIOFYU_10956",
+				"LBL_CLFCC_NOMBRENAW_95120"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_CLFCCZTNFDZMV_434": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ESTUDIATT_950": [
+					"AT13_SEXOYPIC950",
+					"AT45_CURSOLTS950",
+					"AT67_APELLIOO950",
+					"AT93_NOMBREZW950"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_CLFCC_APELLIDOO_66487",
+				"LBL_CLFCC_CURSOSDXB_61075",
+				"LBL_CLFCC_GUARDAROG_80721",
+				"LBL_CLFCC_NOMBREWQJ_65500",
+				"LBL_CLFCC_SEXOLKGQK_69757"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}
