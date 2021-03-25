@@ -2,6 +2,12 @@
 	"Entities": {
 		"EN_CAJEROABB_440": {
 			"name": "CajeroABC"
+		},
+	"EN_ANIMALJTZ_835": {
+			"name": "Animal"
+		},
+		"EN_PERSONAII_118": {
+			"name": "Persona"
 		}
 	},
 	"ESTDN": {
@@ -10,6 +16,12 @@
 		"Forms": {
 			"T_CLFCCEWXSQCMK_684": {
 				"name": "CajeroABCFrm"
+			},
+	"T_CLFCCPETQDIOK_549": {
+				"name": "PersonaAlexander"
+			},
+			"T_CLFCCTVKKXENQ_607": {
+				"name": "AnimalDuenio"
 			}
 		},
 		"Queries": {

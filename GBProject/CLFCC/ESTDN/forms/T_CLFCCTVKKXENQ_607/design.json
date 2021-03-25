@@ -1,0 +1,188 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "CLFCC",
+		"subModuleId": "ESTDN",
+		"taskId": "T_CLFCCTVKKXENQ_607",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_ANIMALDUNO_845607",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../CLFCC/relations/componentKeys.json#/ESTDN/Forms/T_CLFCCTVKKXENQ_607/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "CLFCC",
+				"subModuleId": "ESTDN",
+				"taskId": "T_CLFCCTVKKXENQ_607",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_ANIMALDUNO_845607"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "AnimalDuenio",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"columnsNum": 3,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../CLFCC/entities/EN_ANIMALJTZ_835.json#"
+						},
+						"eventType": 0,
+						"groupId": "G_ANIMALDEIE_644997",
+						"htmlSection": "F",
+						"independentValidation": "F",
+						"isCustomized": false,
+						"layoutType": "Group",
+						"name": "Group1201",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../CLFCC/entities/EN_ANIMALJTZ_835.json#/attributes/AT45_DUENIOBS835"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../CLFCC/assets/languages/CLFCC.json#/CLFCC/LBL/LBL_CLFCC_DUENIOFYU_10956"
+									},
+									"labelId": "LBL_CLFCC_DUENIOFYU_10956",
+									"moduleId": "CLFCC"
+								},
+								"maxRecords": null,
+								"name": "duenio",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_DUENIOYBDHUNZVO_907997",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../CLFCC/entities/EN_ANIMALJTZ_835.json#/attributes/AT55_NOMBREKL835"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../CLFCC/assets/languages/CLFCC.json#/CLFCC/LBL/LBL_CLFCC_NOMBRENAW_95120"
+									},
+									"labelId": "LBL_CLFCC_NOMBRENAW_95120",
+									"moduleId": "CLFCC"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBRETVZKZUBHR_143997",
+								"width": null,
+								"widthComposite": "D"
+							}
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_ANIMALDUEN_997"
+				},
+				"metadataVersion": "7.2.0.2024 BETA",
+				"modules": [
+					{
+						"moduleId": "CLFCC"
+					}
+				],
+				"name": "View of AnimalDuenio"
+			}
+		}
+	]
+}
