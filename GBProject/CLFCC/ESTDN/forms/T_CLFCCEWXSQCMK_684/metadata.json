@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_CAJEROABB_440",
+			"isContextEntity": null,
+			"moduleId": "CLFCC",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}

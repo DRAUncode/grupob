@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_CAJEROABB_440": {
+			"name": "CajeroABC"
+		}
+	},
+	"ESTDN": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_CLFCCEWXSQCMK_684": {
+				"name": "CajeroABCFrm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

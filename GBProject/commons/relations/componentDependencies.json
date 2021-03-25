@@ -1,6 +1,40 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CAJEROABB_440": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_CLFCCEWXSQCMK_684": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CAJEROABB_440": [
+					"AT63_APELLIDO440",
+					"AT82_SUCURSAA440",
+					"AT92_NOMBREPV440"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_CLFCC_APELLIDOO_66487",
+				"LBL_CLFCC_NOMBREWQJ_65500",
+				"LBL_CLFCC_SUCURSALL_98993"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
