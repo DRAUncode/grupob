@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_ESTUDIATN_982",
+			"isContextEntity": null,
+			"moduleId": "CLFCC",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
